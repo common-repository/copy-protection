@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Copy Protection\n"
+"POT-Creation-Date: 2016-11-18 01:20+0200\n"
+"PO-Revision-Date: 2016-11-18 01:21+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: copy-protection.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: copy-protection.php:76
+msgid "Read"
+msgstr ""
+
+#: copy-protection.php:76
+msgid " More"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: copy-protection.php:81
+msgid "Copy Protection"
+msgstr ""
+
+#: copy-protection.php:92
+msgid "Disable Right Cklick: "
+msgstr ""
+
+#: copy-protection.php:99
+msgid "Custom Text: "
+msgstr ""
+
+#: copy-protection.php:104
+msgid "Disabl - Text Select F12, Ctrl + U, Ctrl + C: "
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.seosthemes.com/copy-protection/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WP Content Copy Protection — WordPress Plugins. Simply amazing and easy to "
+"use."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""

@@ -1,0 +1,85 @@
+.copy-protection {
+	width: 100%;
+	display: block;
+	clear: both;
+
+}
+				
+.copy-protection label {
+	font-weight: bold;
+	padding: 20px 0 20px 0;
+	text-align: center;
+}
+				
+.cc-clr {
+	display: block;
+	clear: both;
+	content: "";
+}
+				
+.copy-protection .form-group  {
+	margin-top: 15px;
+	width: 200px;
+	height: auto;
+	display: block;
+}
+				
+.copy-protection .form-group input {
+	border-radius: 4px;
+	padding: 10px;
+}
+
+.copy-protection  .s-red {
+	background-color: #B70000 !important;
+	border: 1px solid #6B0000 !important;
+	display: block;
+	clear: both;
+	font-size: 40px;
+	font-weight: 900;
+	width: 100%;
+	color: #fff;
+	-webkit-transition: all 0.6s ease;
+	-moz-transition: all 0.6s ease;
+	-o-transition: all 0.6s ease;
+	-ms-transition: all 0.6s ease;
+	transition: all 0.6s ease;
+	font-family: 'Montserrat', sans-serif;
+	text-shadow: 2px 2px #333;
+	}
+
+.copy-protection h2  {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 20px;
+}
+
+.s-red:hover {
+	background-color: red !important;
+}
+
+.copy-protection .btn {
+	text-align: center;
+	line-height: 80px;
+}
+
+.copy-protection  a {
+	text-decoration: none;
+}
+
+.copy-protection h1 {
+	font-size: 44px;
+	padding: 30px 0 30px 0;
+	text-align: center;
+}
+				
+.copy-protection .ss-logo {
+	position: relative;
+	top: 12px;
+	width: 60px;
+	height: 60px;
+}
+				
+.copy-protection img{
+	width: 300px;
+	height: auto;
+}			
